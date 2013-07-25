@@ -1,0 +1,18 @@
+{
+  "name": "universal-hash-function",
+  "version": "0.1.0",
+  "description": "Universal hash function",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tristanls/node-universal-hash-function.git"
+  },
+  "keywords": [
+    "universal",
+    "hash",
+    "function",
+    "universal hash function"
+  ],
+  "author": "Tristan Slominski <tristan.slominski@gmail.com>",
+  "license": "MIT"
+}
